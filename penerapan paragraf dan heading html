@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Penerapan Paragraf Dan Heading</title>
+</head>
+<body>
+<h1 align="center">pengertian dan fungsi komputer</h1>
+<h2>1.pengertian Komputer</h2>
+<p style="text-indent:45px">komputer berasal dari kata <i>camputare</i> yang artinnya menghitung.Secara bahasa Komputer didefinisikan sebagai alat yang melakukan proses penghitungan aritmatika.</p>
+<p>secara umum, koputer disefinisikan sebagai seperangkat alat elektronik yang menghubungkan komputer satu dengan yang lainnya sehingga menghasilkan informasi yang sebelumny telah diolah terlebih dahulu</p>
+<p>komputer terdiri dari tiga elemen yakni: <b>hardware</b> (perangkat keras) seperti processor, Hasdisk, RAM,CPU, Methorboard.<b>software</b> (perangkat lunak) seperti aplikasi-aplikasi dan juga <u><b>sistem operasi </b></u>yang akan bekerja sesuai perintah yang diberikan oleh <b>brainware </b>pengguna.</p>
+<br>
+<h3>2. fungsi Komputer</h3>
+<p style="text-indent:45px">semua komputer memiliki empat fungsi:</p>
+<li>pengolaan data - Data processing</li>
+<li>penyimpanan data - Data storage</li>
+<li>pemindahan data - Data movement</li>
+<li>kendali - control</li>
+</0l>
+</body>
+</html>
